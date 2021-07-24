@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-BuildSSM/01-BuildSSM.iml" filepath="$PROJECT_DIR$/01-BuildSSM/01-BuildSSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Login/02-Login.iml" filepath="$PROJECT_DIR$/02-Login/02-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Activity/03-Activity.iml" filepath="$PROJECT_DIR$/03-Activity/03-Activity.iml" />
     </modules>
   </component>
 </project>
