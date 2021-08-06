@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-BuildSSM/01-BuildSSM.iml" filepath="$PROJECT_DIR$/01-BuildSSM/01-BuildSSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Login/02-Login.iml" filepath="$PROJECT_DIR$/02-Login/02-Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Activity/03-Activity.iml" filepath="$PROJECT_DIR$/03-Activity/03-Activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Clue-Tran-Custo-Cont/04-Clue-Tran-Custo-Cont.iml" filepath="$PROJECT_DIR$/04-Clue-Tran-Custo-Cont/04-Clue-Tran-Custo-Cont.iml" />
     </modules>
   </component>
 </project>

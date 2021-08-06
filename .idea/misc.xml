@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/01-BuildSSM" />
     <file type="web" url="file://$PROJECT_DIR$/02-Login" />
     <file type="web" url="file://$PROJECT_DIR$/03-Activity" />
+    <file type="web" url="file://$PROJECT_DIR$/04-Clue-Tran-Custo-Cont" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -12,6 +13,7 @@
         <option value="$PROJECT_DIR$/01-BuildSSM/pom.xml" />
         <option value="$PROJECT_DIR$/02-Login/pom.xml" />
         <option value="$PROJECT_DIR$/03-Activity/pom.xml" />
+        <option value="$PROJECT_DIR$/04-Clue-Tran-Custo-Cont/pom.xml" />
       </list>
     </option>
   </component>
